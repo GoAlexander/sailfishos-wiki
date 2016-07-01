@@ -9,7 +9,7 @@
 (only for backup?)  
 ~/.vault/People/data/all.vcf
 
-**All bookmarks of default browser*:  
+**All bookmarks of default browser**:  
 ~/.vault/Browser/data/.local/share/org.sailfishos/sailfish-browser/bookmarks.json
 
 **Here all your alarms:**  
