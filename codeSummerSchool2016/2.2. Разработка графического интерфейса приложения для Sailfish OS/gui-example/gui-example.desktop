@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=gui-example
+Exec=gui-example
+Name=GUI Examples
+Name[ru]=Примеры GUI

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=api-example
+Exec=api-example
+Name=API Examples
+Name[ru]=Примеры API

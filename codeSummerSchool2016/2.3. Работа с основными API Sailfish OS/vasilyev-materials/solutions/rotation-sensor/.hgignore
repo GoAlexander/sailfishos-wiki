@@ -1,0 +1,4 @@
+syntax:glob
+*.pro.user
+*.spec
+.*.swp
