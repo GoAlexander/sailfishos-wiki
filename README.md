@@ -1,7 +1,8 @@
 # sailfishos-wiki
-It is the small wiki about features of Sailfish OS. 
-Cheatsheets are from official Jolla\`s blog.  
-  
+It is the small wiki about features of Sailfish OS.  
+- Cheatsheets are from official Jolla\`s blog. 
+- Super cool slides are from Sailfish OS Summer School (27-30.07.2016) organised by the Open Mobile Platform in Innopolis city, Russia.
+
   
 #####Paths to configs and some data:
 [configs&data](https://github.com/GoAlexander/sailfishos-wiki/blob/master/configs%26data.md)
