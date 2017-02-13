@@ -4,7 +4,7 @@ It is the small wiki about features of Sailfish OS.
 - Super cool slides are from Sailfish OS Summer School (27-30.07.2016) organised by the Open Mobile Platform in Innopolis city, Russia.
 
 
-#####GetStarted
+#####GetStarted:
 [SFOSGetStarted](https://github.com/GoAlexander/sailfishos-wiki/blob/master/SFOSGetStarted.md)
 
 #####Paths to configs and some data:
