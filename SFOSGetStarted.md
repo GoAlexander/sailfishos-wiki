@@ -37,6 +37,7 @@
 - Стандартная документация по QT: http://doc.qt.io
 - Отличное сообщество, конкурсы, обсуждения: http://maemo.org
 - официальный ресурс от Jolla, работает по принципу StackOverflow, задаем вопросы, читаем решения: https://together.jolla.com/questions/
+- Amazing Sailfish OS Cheat Sheet: https://sailfishos.org/wiki/Sailfish_OS_Cheat_Sheet#Calendar
 
 
 3. Адаптация
