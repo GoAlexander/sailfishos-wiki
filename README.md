@@ -6,7 +6,7 @@ It is the small wiki about features of Sailfish OS.
 
 
 ##### Get Started (Russian and English):
-[SFOSGetStarted](https://github.com/GoAlexander/sailfishos-wiki/blob/master/SFOSGetStarted.md)
+[SFOSGetStarted](https://github.com/GoAlexander/sailfishos-wiki/blob/master/SFOSGetStarted.md)   *<- You must read it!*
 
 ##### Paths to configs and some data:
 [configs&data](https://github.com/GoAlexander/sailfishos-wiki/blob/master/configs%26data.md)
